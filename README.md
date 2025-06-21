@@ -39,7 +39,7 @@ difficulty = 25  # Game speed
 frame_size_x = 720  # Width of game window
 frame_size_y = 480  # Height of game window<br>
 # 📸 Screenshot
-<img src="C:\Users\Bhuvanashri SK\Pictures\Screenshots\Screenshot 2025-06-22 004952.png">
+![Game Screenshot](Screenshot 2025-06-22 004952.png)
 <br>
 # 📄 License
 This project is open-source and free to use under the MIT License.
